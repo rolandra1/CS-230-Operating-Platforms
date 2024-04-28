@@ -2,7 +2,7 @@
 # Module Eight Journal 
 
 **Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?**
-The Gaming Room client was seeking enhancements for their Android game, Draw It or Lost It, and wanted to expand it to other platforms.
+The Gaming Room client was seeking enhancements for their Android game, Draw It or Lost It, and wanted to expand it to other platforms. This would help Gaming Rooms to distribute their gaming applications across various operating systems. The Client wanted a gaming experience similar to the "Win, Lose, or Draw" game show from the 80s.
 
 **What did you do particularly well in developing this documentation?**
 In developing the documentation, I excelled in maintaining clarity, conciseness, and relevance to the client's needs.
